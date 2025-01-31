@@ -780,7 +780,7 @@ export default function Dashboard() {
             </div>
 
             {/* Recent Creations */}
-            <div className="mt-12 space-y-6">
+            <div className="mt-12 space-y-6 mb-12">
               <div className="flex items-center justify-between">
                 <h2 className="text-xl font-bold">Recent Creations</h2>
                 <button 
